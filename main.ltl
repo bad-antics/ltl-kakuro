@@ -1,0 +1,15 @@
+// ltl-kakuro/main.ltl
+//
+// Kakuro solver with sum + uniqueness constraints.
+//
+// This is an early skeleton — contribution is welcome! See the
+// README for build instructions.
+
+import std::io
+import std::fmt
+
+pub fn main(args: [str]) -> Int {
+    io::println("ltl-kakuro v0.1.0")
+    io::println("Kakuro solver with sum + uniqueness constraints.")
+    0
+}
